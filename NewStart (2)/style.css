@@ -58,4 +58,22 @@ body {
   position: absolute;
   left: 300px;
   top: 310px;
+}
+
+#lorem .box {
+  width: 500px;
+  position: relative;
+}
+#lorem .box .minibox {
+  width: 100px;
+  height: 100px;
+  border: 3px solid black;
+  color: white;
+  background-color: purple;
+  padding: 5px;
+  margin: 10px;
+}
+#lorem .box .box1 {
+  position: absolute;
+  left: 800px;
 }/*# sourceMappingURL=style.css.map */
